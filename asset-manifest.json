@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeremygiberson.com/static/css/main.285c79cd.css",
+    "main.js": "/jeremygiberson.com/static/js/main.e7b6c4ed.js",
+    "static/js/787.c13380a7.chunk.js": "/jeremygiberson.com/static/js/787.c13380a7.chunk.js",
+    "index.html": "/jeremygiberson.com/index.html",
+    "main.285c79cd.css.map": "/jeremygiberson.com/static/css/main.285c79cd.css.map",
+    "main.e7b6c4ed.js.map": "/jeremygiberson.com/static/js/main.e7b6c4ed.js.map",
+    "787.c13380a7.chunk.js.map": "/jeremygiberson.com/static/js/787.c13380a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285c79cd.css",
+    "static/js/main.e7b6c4ed.js"
+  ]
+}
