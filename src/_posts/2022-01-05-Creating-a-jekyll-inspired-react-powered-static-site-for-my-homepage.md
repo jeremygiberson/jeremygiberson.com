@@ -1,7 +1,7 @@
 # creating a jekyll inspired react powered static site for my homepage
 So it's that time again, where I'm shopping around for my next career opportunity and realize that through the years of gainful employment I've neglected my personal site.
 
-### aside
+### Aside
 I think the main reason I neglect blogging, is that the workflow for blogging has never quite met my satisfaction. Going to a site, logging in, "Managing" content by drafting and publishing posts. 
 It just doesn't match my day-to-day developer workflow. On a branch, make some changes, commit some changes. Also, I really like the idea of
 using markdown as my text markup language. 
@@ -12,7 +12,7 @@ was managed by reflecting on the filename to determine date and title informatio
 I did experiment with using it for my site earlier, but didn't end up using it. I think the last piece of the mechanism, is that I wanted my site to be run on something I built -- even if it wasn't apparent.
 Just felt like using an existing blog platform on my site didn't really represent my developer nature.
 
-### back on topic
+### Back on topic
 It felt necessary to refresh my site and potentially add some new content. 
 
 I decided to try find or create a workflow that check all my wishlist boxes.

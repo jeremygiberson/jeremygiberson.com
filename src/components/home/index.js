@@ -19,7 +19,7 @@ export const Home = () => {
 
         <div className="mb-5">
           <Link to={"/pages/resume"} className="btn btn-primary btn-lg px-4">View Resume</Link>{' '}
-          <a target={'_blank'} href="https://www.linkedin.com/in/jeremy-giberson-a10ab832/" className="btn btn-secondary btn-lg px-4">View LinkedIn Profile</a>
+          <a target={'_blank'} rel="noreferrer" href="https://www.linkedin.com/in/jeremy-giberson-a10ab832/" className="btn btn-secondary btn-lg px-4">View LinkedIn Profile</a>
         </div>
 
         <hr className="col-3 col-md-2 mb-5"/>
@@ -44,10 +44,10 @@ export const Home = () => {
       <footer className="pt-5 my-5 text-muted border-top text-center">
         Powered by a bunch of cool open source projects, wired together by me &middot; &lt;3<br/>
         <span className={'d-flex align-items-center justify-content-between'}>
-          <a target={"_blank"} href={"https://getbootstrap.com/"}>get bootstrap</a>
-          <a target={"_blank"} href={"https://create-react-app.dev/"}>create-react-app</a>
-          <a target={"_blank"} href={"https://github.com/gitname/react-gh-pages"}>react-gh-pages</a>
-          <a target={"_blank"} href={"https://jekyllrb.com/"}>jekyll</a>
+          <a target={"_blank"} rel="noreferrer" href={"https://getbootstrap.com/"}>get bootstrap</a>
+          <a target={"_blank"} rel="noreferrer" href={"https://create-react-app.dev/"}>create-react-app</a>
+          <a target={"_blank"} rel="noreferrer" href={"https://github.com/gitname/react-gh-pages"}>react-gh-pages</a>
+          <a target={"_blank"} rel="noreferrer" href={"https://jekyllrb.com/"}>jekyll</a>
         </span>
       </footer>
     </div>
