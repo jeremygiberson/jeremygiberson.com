@@ -8,12 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Configure git credentials
-        uses: OleksiyRudenko/gha-git-credentials@v2
-        with:
-          token: '${{ secrets.GITHUB_TOKEN }}'
+#      - name: Configure git credentials
+#        uses: OleksiyRudenko/gha-git-credentials@v2
+#        with:
+#          token: '${{ secrets.GITHUB_TOKEN }}'
       - uses: actions/setup-node@v2
         with:
           node-version: '17'
-      - run: npm install
-      - run: npm run deploy
+      - run: |
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/${{ github.repository }}.git
+          git config --global user.email jeremygiberson@gmail.com
+          git config --global user.name gh-action-deploy
+          npm install
+          npm run deploy
