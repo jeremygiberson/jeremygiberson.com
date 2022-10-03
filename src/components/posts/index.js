@@ -34,7 +34,7 @@ export const Posts = () => {
           <h1>Posts</h1>
           <ol>
             {posts.map((post,i) => (
-              <li key={i}><Link to={post.path}>{post.title}</Link></li>
+              <li key={i}><Link to={post.path}>{post.title.replaceAll('-', ' ')}</Link></li>
             ))}
           </ol>
         </div>

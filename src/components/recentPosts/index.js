@@ -20,7 +20,7 @@ export const RecentPosts = () => {
     <>
       {recent.map((route, i) => (
           <li key={i}>
-            <Link to={route.path}>{route.title}</Link>
+            <Link to={route.path}>{route.title.replaceAll('-', ' ')}</Link>
           </li>
         )
       )}
