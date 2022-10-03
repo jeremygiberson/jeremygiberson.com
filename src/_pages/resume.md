@@ -23,7 +23,13 @@ Good code starts with good product ownership--which is a combined effort of prod
 
 
 ## Employment
-### Privoro (2017-Current) - Sr Software Engineer/Cloud Architect
+### Formidable (2022-current) - Sr Backend Engineer/Cloud Architect
+At Formidable I was staffed on a global e-commerce client project where I was tapped to shepherd the transition from mono repository full stack application/architecture to multiple repository project organization. The reorganization was made to help the client facilitate product management and quality of the Frontend and GraphQL/API layers. The migration was performed in parallel with ongoing feature development w/out inhibiting team delivery velocity. Ultimately the production transition to new dedicated infrastructure was performed transparently and without production down time.
+
+Otherwise, time was spent in open source project research and development. I explored desktop application development with Rust and Tauri as an alternative to Electron application development stack to deliver fast, lightweight, cross platform deliverables.
+
+
+### Privoro (2017-2022) - Sr Software Engineer/Cloud Architect
 At Privoro, I was the lead developer and cloud architect for the cloud software offering (CSO). The CSO is companion software for a physical product (SafeCase). I was instrumental in the design, specification and implementation of the cloud infrastructure and software architecture. I architected (and led the implementation effort) of the solution to support **IoT pipeline** processing -- enabling the ability to react to device status to provide threat mitigation and reporting. Additionally, the CSO provided a customer portal to manage a fleet of IoT devices, set policies, provide reporting of policy violations and real time mapping of device location and status.
 
 My first step was implementing the **provisioning and deployment pipeline** that supported local development, integrated dev and test, and production environments. I focused on eliminating friction of the Software Development Lifecycle to enable devs to move fast.
