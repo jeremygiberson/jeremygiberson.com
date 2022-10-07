@@ -1,4 +1,4 @@
-# creating a jekyll inspired react powered static site for my homepage
+# Creating a jekyll inspired react powered static site for my homepage
 So it's that time again, where I'm shopping around for my next career opportunity and realize that through the years of gainful employment I've neglected my personal site.
 
 ### Aside

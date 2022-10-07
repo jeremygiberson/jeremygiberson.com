@@ -1,6 +1,6 @@
 import {Home} from "./components/home";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
