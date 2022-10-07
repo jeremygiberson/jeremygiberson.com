@@ -16,7 +16,7 @@ export const Post = () => {
   if(!post){ return (<div>loading ...</div>)}
 
   return (
-    <div className={'container'}>
+    <div className={'container post'}>
       <div className="row g-5">
         <div className="col-md-8">
           <Markdown
