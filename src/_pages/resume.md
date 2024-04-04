@@ -23,7 +23,11 @@ Good code starts with good product ownership--which is a combined effort of prod
 
 
 ## Employment
-### Formidable (2022-current) - Sr Backend Engineer/Cloud Architect
+### Vizion (2023-current) - Sr Software Engineer
+At VIZION API, as a Senior Software Engineer, Backend & API's, I am an integral part of the Engineering team focused on building and maintaining core backend functionality to accelerate the digital transformation of supply chain & logistics companies worldwide. I design, build, and maintain backend APIs, services, and systems with security, reliability, and scalability in mind. I participate in the project management cycle from scoping work to measuring project success and planning new iterations based on results. Additionally, I conduct code reviews, communicate effectively with colleagues, and collaborate closely with other engineers on user-facing features and API user experience. My role at VIZION API reports to the CTO and involves partnering with cross-functional teams in Data Analytics, Product, Sales, Marketing, and Customer Experience to drive the mission of enhancing and optimizing world trade through accessible data and empowering digital tools.
+
+
+### Formidable (2022) - Sr Backend Engineer/Cloud Architect
 At Formidable I was staffed on a global e-commerce client project where I was tapped to shepherd the transition from mono repository full stack application/architecture to multiple repository project organization. The reorganization was made to help the client facilitate product management and quality of the Frontend and GraphQL/API layers. The migration was performed in parallel with ongoing feature development w/out inhibiting team delivery velocity. Ultimately the production transition to new dedicated infrastructure was performed transparently and without production down time.
 
 Otherwise, time was spent in open source project research and development. I explored desktop application development with Rust and Tauri as an alternative to Electron application development stack to deliver fast, lightweight, cross platform deliverables.
